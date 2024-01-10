@@ -1,8 +1,11 @@
 # MBTI Flip Card [HTML, CSS]
 
 ![Flip Card](figma-01.png)
+[LIVE DEMO](https://rad-malabi-9c9f5a.netlify.app)
 
-Font: Lora 16px
+## Font Used
+
+Lora, 16px, Weight: 400, 500
 
 ## Notable Code Snippet
 
